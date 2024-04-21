@@ -1,4 +1,4 @@
-# *Word Embeddings**
+# **Word Embeddings**
 
 ### Pre-Trained Models
 ```html
