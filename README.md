@@ -7,6 +7,12 @@ https://iiitaphyd-my.sharepoint.com/:f:/g/personal/harsh_bansal_students_iiit_ac
 
 ---
 
+### Implemented Algorithms
+- `skip-gram.ipynb` contains the source code for Skip Gram with Negative Sampling.
+- `svd.ipynb` contains the source code for Singular Value Decomposition (SVD).
+
+---
+
 ### Requirements
 ```
 nltk
